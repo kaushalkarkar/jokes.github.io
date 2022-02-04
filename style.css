@@ -1,5 +1,5 @@
 body{
-    background: #2980b9;
+    background: red;
     font-family: "Redressed", cursive;
     display: flex;
     flex-direction: column;
@@ -14,7 +14,7 @@ body{
 
 
 .container{
-    background-color: orange;
+    background-color: yellow;
     border-radius: 10px;
     box-shadow: 0 10px 20px 10px rgba(0, 0, 0, 0.1);
     padding: 50px 20px;
